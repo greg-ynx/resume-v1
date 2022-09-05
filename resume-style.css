@@ -1,0 +1,10 @@
+.A4 {
+    width: 2480px;
+    height: 3508px;
+}
+
+.main-grid-container {
+    display: grid;
+    grid-template-columns: 30% 70%;
+    padding: 10px;
+}
